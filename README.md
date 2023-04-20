@@ -1,3 +1,3 @@
 # javascript
 
-I am learning JS
+I am learning JS. After practicing i push my code.
